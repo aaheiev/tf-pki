@@ -1,5 +1,16 @@
+# Common
+.idea/
+.vscode/
+.DS_Store
+
+# Secrets
+xca.pass
+xca.xdb
+certs/
+
 # Local .terraform directories
 .terraform/
+.terraform.lock.hcl
 
 # .tfstate files
 *.tfstate
